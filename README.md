@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-UI de action confirmation para site de viagens
+UI de Action Confirmation para site de turismo
 
 ## 🔖 Deploy
 
