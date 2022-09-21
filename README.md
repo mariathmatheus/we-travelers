@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-UI de Landing page para Pet Shop
+UI de action confirmation para site de viagens
 
 ## 🔖 Deploy
 
