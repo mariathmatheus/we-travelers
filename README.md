@@ -16,11 +16,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-UI de Action Confirmation para site de turismo
+UI de Landing Page de turismo
 
 ## 🔖 Deploy
 
-Este site está disponível para testes via Netlify pelo link: <a href="https://we-travelers.vercel.app/">Testar</a>
+Este site está disponível para testes via Vercel pelo link: <a href="https://we-travelers.vercel.app/">Testar</a>
 
 
 ## 🚀 Como executar
