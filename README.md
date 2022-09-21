@@ -20,7 +20,7 @@ UI de Landing page para Pet Shop
 
 ## 🔖 Deploy
 
-Este site está disponível para testes via Netlify pelo link: <a href="https://we-care-mariath.vercel.app/">Testar</a>
+Este site está disponível para testes via Netlify pelo link: <a href="https://we-travelers.vercel.app/">Testar</a>
 
 
 ## 🚀 Como executar
